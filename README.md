@@ -66,6 +66,16 @@ $ orthoani -q sequence1.fa -r sequence2.fa
 ```
 
 
+## 💡 Multiple sequences
+
+run the script orthoani.py in the folder that there are the .fasta archives
+remember modify the path to the diretory
+
+```
+python orthoani.py 
+```
+
+
 ## 🐏 Memory
 
 `orthoani` uses the machine temporary folder to handle BLAST+ input and output
